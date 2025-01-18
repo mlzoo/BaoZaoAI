@@ -1,5 +1,5 @@
 # BaoZaoAI
-基于Qwen-2.5-1.5B-Instruct 进行DPO fine-tuning后，意外说真话的AI暴躁哥！
+[完整代码+数据集]基于Qwen-2.5-1.5B-Instruct 进行DPO fine-tuning后，意外说真话的AI暴躁哥！
 ![](image.png)
 ## 使用说明和风险提示
 这是一个基于LLM的聊天应用，旨在展示模型的对话生成能力。在使用前，请仔细阅读以下说明和风险提示。
